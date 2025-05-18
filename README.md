@@ -116,7 +116,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-     printf("saveetha enineering college\n");
+     printf("saveetha\n");
      printf("scoft\n");
      HAL_Delay(500);
   }
